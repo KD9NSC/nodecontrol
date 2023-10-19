@@ -1,2 +1,2 @@
-# nodecontrol
-Allstar's Allmon 2 rewritten in bootstrap by N9MMR and KD9NSC
+# NodeControl
+NodeControl (NC) is a partial rewrite and rethemeing of Allstar's Allmon 2.
